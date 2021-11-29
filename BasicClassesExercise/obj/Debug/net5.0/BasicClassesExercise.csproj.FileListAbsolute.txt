@@ -1,0 +1,16 @@
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.exe
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.deps.json
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.runtimeconfig.json
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.runtimeconfig.dev.json
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.dll
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\ref\BasicClassesExercise.dll
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\bin\Debug\net5.0\BasicClassesExercise.pdb
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.csproj.AssemblyReference.cache
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.AssemblyInfo.cs
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.dll
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\ref\BasicClassesExercise.dll
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.pdb
+C:\WORK\REPO\BasicClassesExercise\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.genruntimeconfig.cache
